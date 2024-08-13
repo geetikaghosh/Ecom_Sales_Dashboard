@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Ecomm_Store_Dashboard"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "51cfbe72-a442-45a7-a5c8-6bba4f6e9206"
+  }
+}
